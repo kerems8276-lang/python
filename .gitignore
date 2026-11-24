@@ -1,0 +1,16 @@
+# Python sanal ortamları
+.venv/
+.venv311/
+venv/
+env/
+# VS Code ayarları
+.vscode/
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
+*.pyo
+# Ortam değişkenleri
+.env
+.env.*
+# Sistem dosyaları
+.DS_Store
